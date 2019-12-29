@@ -1,4 +1,4 @@
 <?php
-    print 'How are you?';
-    print "I'm fine. ";
+    print 'Kak tbl?';
+    print "Otliichn0. ";
 ?>
